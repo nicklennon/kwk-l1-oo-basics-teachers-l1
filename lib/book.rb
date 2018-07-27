@@ -46,3 +46,6 @@ class Book
   end
   
 end
+
+f451 = Book.new("Farenheit 451")
+puts f451.title
